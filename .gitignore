@@ -36,3 +36,5 @@ build
 # Ignora configuración del proyecto eclipse
 .project
 .settings
+*.eclipse.buildship.core.prefs
+.gitignore
